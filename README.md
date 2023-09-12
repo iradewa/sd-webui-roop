@@ -1,5 +1,5 @@
 # roop for StableDiffusion
-#[SUBSCRIBE YOUTUBE CARAMITA](https://www.youtube.com/channel/UC-E_R3O90PL7Zsw9sYLXXSA)
+[SUBSCRIBE YOUTUBE CARAMITA](https://www.youtube.com/channel/UC-E_R3O90PL7Zsw9sYLXXSA)
 
 This is an extension for StableDiffusion's [AUTOMATIC1111 web-ui](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) that allows face-replacement in images. It is based on [roop](https://github.com/s0md3v/roop) but will be developed seperately.
 
